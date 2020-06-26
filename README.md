@@ -6,3 +6,5 @@ El proyecto consiste en crear una base de datos para resolver el problema de un 
 
 Además hay archivos .sql con consultas donde se aplican diferentes temas como: funciones, subconsultas, crosstabs, etc.
 
+
+Notas para mejorar: utilizar el CURP como llave primaria de las personas, intentar crear una tabla cliente que tenga un atributo/relación que distinga su operación, es decir, si compra en línea, tienda o repara bicicletas.
